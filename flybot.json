@@ -1,6 +1,7 @@
 {
   "title": "What's the weather",
   "description": "Description of what's the weather",
+  "key": "LQG5OSLC7P3VKZ2MH6OXJ3W67DSRERIG",
   "permissions": [],
   "commands": [
     "weather"
